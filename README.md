@@ -28,7 +28,7 @@ A web experiment recreating a scroll-based 3D effect, built to learn how WebGL, 
 Stack: Three.js, GSAP ScrollTrigger, Lenis, GLSL
 
 ## Research
-
+- A Comprehensive Study of Current Advances of Tools and Applications in Bengali for AI Study, *Journal of Intelligent Decision Making and Information Science*, 2026. [Read the paper: https://jidmis.org/index.php/jidmis/article/view/2576]
 - Co-authored a paper on water quality monitoring, presented at ICMCEL 2025.
 - Co-authored a brain tumor MRI segmentation study using U-Net with ResNet50 and DenseNet121 encoders. I led the image preprocessing pipeline (CLAHE and Laplacian).
 - Worked on insect species recognition using CNNs, including MobileNetV2.
